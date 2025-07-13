@@ -45,3 +45,7 @@ exec_always --no-startup-id ~/.config/polybar/launch.sh &
 - `chromium` - Chromium
 - `dolphin` - File manager
 - `lxappearance` - appearance setup
+
+## Install gh
+
+[install gh](https://github.com/cli/cli/blob/trunk/docs/install_linux.md)
